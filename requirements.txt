@@ -1,11 +1,9 @@
 python-dotenv
 streamlit
 pandas
-fuzzywuzz
-python-Levenshtein
-cleanco
-openai
 requests
-xlrd
-openpyxl
+openai
+python-dotenv
+fuzzywuzzy
 cleanco
+
